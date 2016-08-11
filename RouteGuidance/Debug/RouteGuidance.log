@@ -1,0 +1,24 @@
+﻿生成启动时间为 2016/8/11 16:38:13。
+     1>项目“D:\royypma\CompareTool\RouteGuidance\RouteGuidance\RouteGuidance.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Guidance.cpp main.cpp
+         main.cpp
+         Guidance.cpp
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(311): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(312): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(313): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(314): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(318): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>d:\royypma\comparetool\routeguidance\routeguidance\guidance.cpp(323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\royypma\CompareTool\RouteGuidance\Debug\RouteGuidance.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\royypma\CompareTool\RouteGuidance\Debug\RouteGuidance.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\royypma\CompareTool\RouteGuidance\Debug\RouteGuidance.lib" /MACHINE:X86 Debug\Guidance.obj
+         Debug\main.obj
+         RouteGuidance.vcxproj -> D:\royypma\CompareTool\RouteGuidance\Debug\RouteGuidance.exe
+     1>已完成生成项目“D:\royypma\CompareTool\RouteGuidance\RouteGuidance\RouteGuidance.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.17
